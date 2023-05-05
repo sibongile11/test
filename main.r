@@ -1,6 +1,7 @@
 roof(){
 
     add nail
+    add water
     add paint
     add wood
 }
